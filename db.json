@@ -1,11 +1,15 @@
 {
-  "posts": [
+  "data": [
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "id": "KOR",
+      "name": "República da Coréia",
+      "continent": "ASI",
+      "flag_url": "https:\/\/codante.s3.amazonaws.com\/codante-apis\/olympic-games\/flags\/KOR.png",
+      "gold_medals": 5,
+      "silver_medals": 3,
+      "bronze_medals": 1,
+      "total_medals": 9,
+      "rank": 1,
+      "rank_total_medals": 4
+    },
 }
